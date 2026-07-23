@@ -20,8 +20,8 @@ This project applies basic machine learning algorithms to predict future stock p
 # Prerequisites & Dependencies
 
 Ensure you have the following installed in your environment:
-Python 3.8 or higher
-pandas
-numpy
-scikit-learn
-matplotlibInstallation
+**#Python 3.8 or higher**
+**#pandas**
+**#numpy**
+**#scikit-learn**
+**#matplotlibInstallation**
