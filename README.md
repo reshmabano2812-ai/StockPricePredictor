@@ -32,6 +32,5 @@ Ensure you have the following installed in your environment:
 
 # Link For DataSet
 
-(https://drive.google.com/file/d/1RL1ll38O55cbngq5ltKC5wEawmppArR-/view?usp=drivesdk)
-
+(https://www.kaggle.com/datasets/nelgiriyewithana/world-stock-prices-daily-updating)
 
