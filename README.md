@@ -1,3 +1,4 @@
+
 # StockPricePredictor
 
 Access the complete implementation via the Stock Prediction Repository to build a machine learning model that forecasts stock market prices. The project utilizes historical data and Python libraries to train a predictive model using the Ordinary Least Squares (OLS) algorithm.Stock Price Predictor using Machine Learning
@@ -20,6 +21,7 @@ This project applies basic machine learning algorithms to predict future stock p
 # Prerequisites & Dependencies
 
 Ensure you have the following installed in your environment:
+
 **#Python 3.8 or higher**
 
 **#pandas**
